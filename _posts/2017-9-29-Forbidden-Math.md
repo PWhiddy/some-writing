@@ -27,6 +27,6 @@ $$h(3,a,b) = a^b = \underbrace{a\cdot a \cdot \ldots \cdot a}_\text{b}$$
   
 $$h(4,a,b)$$ is called tetration, and is equivilent to a stack of exponents with a height of $$b$$.  
   
-$$b\begin{cases}a^{\,a^{\,\ldots^{\,a}}}\end{cases}$$
+$$h(4,a,b) = b\begin{cases}a^{\,a^{\,\ldots^{\,a}}}\end{cases}$$
   
 The first few operations in this series just happen to be the essential building blocks of numerical mathematics, and the rest for whatever reason are nearly unheard of. 
